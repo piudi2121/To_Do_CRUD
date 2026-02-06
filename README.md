@@ -25,7 +25,7 @@ O projeto foi criado com o objetivo de praticar os fundamentos do Django utiliza
 * **HTML5**
 * **CSS3**
 * **Bootstrap**
-* **SQLite** (banco padrão do Django)
+* **SQLite**
 
 ---
 
