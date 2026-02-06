@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Captura de tela do aplicativo" src="https://github.com/user-attachments/assets/c6482bde-beb4-4599-8a44-e1b420a1d9ac" />
+
 # 📝 Django To Do App
 
 Aplicação web de **To Do List** desenvolvida com **Django**, implementando um **CRUD completo** (Create, Read, Update, Delete).
